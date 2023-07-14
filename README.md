@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I'm Darya
+I'm a QA engineer with more than 7 years experience in QA and more than 11 years in IT.
+Here in the profile you can find some study projects for QA automation practice.
+
+
+📫 How to reach me: darya.boyko@gmail.com
 
 <!--
 **dboyko-qa/dboyko-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
