@@ -1,5 +1,6 @@
 ### Hi, I'm Darya
 I'm a QA engineer with more than 7 years experience in QA and more than 11 years in IT.
+
 Here in the profile you can find some study projects for QA automation practice.
 
 :link: Test project: <a target="_blank" href="https://github.com/dboyko-qa/diploma_project">Project for testing UI, API, Mobile app for Intelinvest.ru site</a></br></br>
