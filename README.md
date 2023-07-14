@@ -4,7 +4,7 @@ Here in the profile you can find some study projects for QA automation practice.
 
 :link: Test project: <a target="_blank" href="https://github.com/dboyko-qa/diploma_project">Project for testing UI, API, Mobile app for Intelinvest.ru site</a></br></br>
 Tools used:
-![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)[This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
+![This is an image](/icons/Java.png)![This is an image](/icons/Gradle.png)![This is an image](/icons/Intelij_IDEA.png)![This is an image](/icons/Selenide.png)![This is an image](/icons/Rest-Assured.png)![This is an image](/icons/appium.png) ![This is an image](/icons/androidstudio.png)![This is an image](/icons/Selenoid.png)![This is an image](/icons/JUnit5.png)![This is an image](/icons/Jenkins.png)![This is an image](/icons/Allure_Report.png)![This is an image](/icons/AllureTestOps.png)![This is an image](/icons/Telegram.png)![This is an image](/icons/Jira.png)</br></br>
 
 
 📫 How to reach me: darya.boyko@gmail.com
